@@ -1,1 +1,3 @@
-# Task-1
+The text discusses the development of a predictive model using machine learning to predict a music recommendation system. The process begins with importing various Python libraries and modules for data processing, visualization, machine learning, and other utility functions. The dataset, stored in a Pandas DataFrame, is read from a CSV file and processed to handle missing values, duplicate values, outliers, resulting in a cleaned DataFrame.
+
+Visualizations are created to gain insights into the data, both categorical and numerical. Five models are built, including Linear Regression, Random Forest, Gradient Boosting, Support Vector Machine, and SVR RBF Kernel. The best model, determined based on accuracy, is identified as the Random Forest model. Finally, a model is constructed to predict a music recommendation system, showcasing the application of machine learning in this context.
